@@ -1,0 +1,29 @@
+.fee-reminders-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .fee-reminders-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .fee-reminders-table th,
+  .fee-reminders-table td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .fee-reminders-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .fee-reminders-table tr:hover {
+    background-color: #ffffff;
+  }
+  
