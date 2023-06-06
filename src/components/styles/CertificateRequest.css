@@ -30,6 +30,7 @@
   .certificates button {
     padding: 8px 16px;
     background-color: #363030;
+    color:#ccc
     border-radius: 5px;
     border: none;
     cursor: pointer;
